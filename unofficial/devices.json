@@ -1,15 +1,15 @@
 [
    {
       "brand": "Samsung",
-      "codename": "raphael",
-      "name": "Mi 9T Pro",
+      "codename": "dreamlte",
+      "name": "Galaxy S8",
       "supported_versions": [
          {
-            "maintainer_name": "Joey Huab (Stallix)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=4936496",
+            "maintainer_name": "Haridhayal",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=9053429",
             "version_code": "ten",
             "version_name": "Ten",
-            "xda_thread": "https://forum.xda-developers.com/k20-pro/development/rom-evolution-x-3-3-t4002669"
+            "xda_thread": "https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/rom-evolution-x-t4083251"
          }
       ]
    }
