@@ -1,0 +1,16 @@
+Android 11 Developer Preview 3
+Date: April 23, 2020
+Build: RPP3.200320.017
+Emulator support: x86 (32/64-bit)
+Security patch level: April 2020
+Google Play services: 20.12.14
+API diff:
+
+API 29 → DP3
+DP2 → DP3
+About Android 11 Developer Preview 3
+Android 11 Developer Preview 3 is for developers only, to help with early development, testing, and feedback. Android 11 Developer Preview 3 is an early baseline build that’s still in active development, so the Android system and apps running on it may not always work as expected.
+
+As with previous versions, Android 11 includes behavior changes to help improve performance, battery life, security, and privacy. In some cases, these can affect apps until they are updated to support Android 11, so you might see impacts ranging from minor issues to more significant functionality limitations. In general, most apps will work as expected, as will most APIs and features, but please review the known issues listed below to get a better idea of what to expect.
+
+You can install this release on any Pixel 2/XL, Pixel 3/XL, Pixel 3a/XL, and Pixel 4/XL device for development and testing. You can also use the Android emulator or an Android Generic System Image (GSI). See Get Android 11 for details on how to get started.
