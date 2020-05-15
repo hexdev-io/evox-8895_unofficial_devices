@@ -1,0 +1,4 @@
+Switched to Lineage PowerHAL
+Fixed 
+  GoogleDuo, Zoom crashes
+  Low Media Volume
