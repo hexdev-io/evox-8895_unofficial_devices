@@ -1,2 +1,2 @@
-- Reverted Google Duo,Zoom Fixes
-- Fixed Video Recording
+Reverted Google Duo,Zoom Fixes
+Fixed Video Recording
