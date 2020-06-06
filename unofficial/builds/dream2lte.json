@@ -1,17 +1,17 @@
 {
-   "datetime": 1589928865,
+   "datetime": 1591419146,
    "donate_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url",
    "error": false,
-   "filehash": "1c09c00ecff09f257d04185dc94c56af",
-   "filename": "EvolutionX_4.3_dream2lte-10.0-20200519-2256-UNOFFICIAL.zip",
+   "filehash": "b677f61fa652f0f1fd70509b6d430df3",
+   "filename": "EvolutionX_4.4_dream2lte-10.0-20200606-0453-UNOFFICIAL.zip",
    "forum_url": "https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/rom-evolution-x-t4083251",
-   "id": "26deeccf705b72593fdad2f9c81a23bb8f9aa0baced6a67042fa4da347336e2b",
+   "id": "a6253a6f5754e743db7ac45171414fba53b4abff60d5c1062407c121b4dc2669",
    "maintainer": "Haridhayal",
    "maintainer_url": "https://forum.xda-developers.com/member.php?u=9053429",
    "news_url": "https://t.me/evolutionx8895",
-   "size": 1404198130,
+   "size": 1204264794,
    "telegram_username": "Haridhayal",
-   "url": "https://server049774.nazwa.pl/zcoder.pl/public_html/evox/EvolutionX_4.3_dream2lte-10.0-20200519-2256-UNOFFICIAL.zip",
+   "url": "https://sourceforge.net/projects/evolutionx-8895/files/dream2lte/EvolutionX_4.4_dream2lte-10.0-20200606-0453-UNOFFICIAL.zip",
    "version": "Ten",
    "website_url": "https://evolution-x.org"
 }
