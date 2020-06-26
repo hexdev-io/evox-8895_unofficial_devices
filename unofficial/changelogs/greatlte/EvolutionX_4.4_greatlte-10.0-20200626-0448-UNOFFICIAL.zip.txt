@@ -1,0 +1,7 @@
+ROM CHANGES
+- None
+
+DEVICE CHANGES
+- Replaced stock camera with Footej camera.
+- Reverted Audio improvements.
+- Better Gcam support. (Dont do the build.prop method to fix camera in apps.)
